@@ -1,5 +1,6 @@
 import { useState, useCallback, useEffect, useRef } from "react";
 
+//main app component
 function App() {
   const [length, setLength] = useState(8)
   const [numberAllowed, setNumberAllowed] = useState(false);
