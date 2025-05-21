@@ -2,7 +2,7 @@ import User from '../models/User.js';
 import crypto from 'crypto';
 import { env } from '../utils/envConfig.js';
 
-// Helper function to set token in cookie and send response
+// Helper function used to set token in cookie and send response
 const sendTokenResponse = (user, statusCode, res) => {
   // Create token
   const token = user.getSignedJwtToken();
