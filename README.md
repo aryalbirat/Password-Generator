@@ -1,6 +1,6 @@
 # Password Generator & Manager
 
-A modern, full-stack password generator and management application built with React, Express, and MongoDB. Generate strong passwords, save them securely with encryption, and manage your passwords across devices.
+A modern, full-stack password generator and management application built with React, Express, and MongoDB. Generate strong passwords, save them securely with encryption, and manage your passwords across devices. 
 
 ## Features
 
